@@ -1,2 +1,2 @@
 # collaborate-mist
-Mist computing
+Mist computing based collaborative app
